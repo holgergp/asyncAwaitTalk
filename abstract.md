@@ -28,9 +28,9 @@
 ## Abstract
 Da fehlt noch ein await: async/await und Promises zähmen.
 
-Asynchroner Code ist nie wirklich angenehm zu schreiben. Es verstecken sich dort zu oft subtile kleinere und größere Fehlerchen.
-Async/await brachte hier in JavaScript eine große Erleichterung im Vergleich zu Callbacks und Promises. Der Code bleibt aber asynchron und ist somit erfahrungsgemäß immer noch fehlerträchtig.
-Holger hat sich in seinen Projekten einmal zu oft über ein fehlendes await geärgert! Dies nimmt er nun zum Anlass sich noch einmal die Funktionsweise von async/await, dessen Historie, mögliche Fallstricke und Lösungen dafür anzuschauen. Hoffentlich ärgern wir uns dann nicht mehr so oft über ein fehlendes await.
+ Asynchronen Code zu schreiben ist nun wirklich nicht angenehm. Zu oft verstecken sich dort subtile, kleine und größere Fehlerchen, die dann mit dem ein oder anderen Ärgernis verbunden sind. In Vergleich zu Callbacks und Promises brachte async/await bereits eine große Erleichterung mit sich. Der Code bleibt jedoch asynchron und ist erfahrungsgemäß immer noch fehleranfällig.
+Holger hat sich in seinen Projekten einmal zu oft über ein fehlendes await geärgert! Dies nimmt er es sich zum Anlass, um die Funktionsweise von async/await und dessen Historie noch einmal genauer zu betrachten. Er wird außerdem häufige Fallstricke und mögliche Lösungswege vorstellen. Danach ärgern wir uns alle hoffentlich seltener über ein fehlendes await.
+
 
 ## Vorkenntnisse:
 Grundlegende JavaScript-Kenntnisse. 
